@@ -1,2 +1,2 @@
-Req_email = mailofairey@gmail.com
-Reg_pass = deffonottellingyou
+let reg_email = mailofairey@gmail.com
+let reg_pass = deffonottellingyou
